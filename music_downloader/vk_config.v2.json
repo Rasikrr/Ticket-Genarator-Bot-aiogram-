@@ -1,0 +1,175 @@
+{
+  "+77068138354": {
+    "cookies": [
+      {
+        "comment": null,
+        "comment_url": null,
+        "discard": false,
+        "domain": ".login.vk.com",
+        "domain_initial_dot": false,
+        "domain_specified": true,
+        "expires": null,
+        "name": "p",
+        "path": "/",
+        "path_specified": true,
+        "port": null,
+        "port_specified": false,
+        "rest": {
+          "HttpOnly": null
+        },
+        "rfc2109": false,
+        "secure": true,
+        "value": "vk1.a.GK7Pa8UZeE0y2hi2sFDrXQubKpYRV2c7I6L9qJ273mSn-TfrOGRQ1-5y6J62vWCErUdcnz4h-6hx7h50xfBjztKum9rq2GQturP_Zp-2Ai02a5Xwaw8wzfhVLgeHx6lOXY8Mrjt9vxo4ZSfUm4gdWoHV7X7wLWl2T1E4QFfsjkg",
+        "version": 0
+      },
+      {
+        "comment": null,
+        "comment_url": null,
+        "discard": false,
+        "domain": ".vk.com",
+        "domain_initial_dot": true,
+        "domain_specified": true,
+        "expires": null,
+        "name": "remixlang",
+        "path": "/",
+        "path_specified": true,
+        "port": null,
+        "port_specified": false,
+        "rest": {},
+        "rfc2109": false,
+        "secure": false,
+        "value": "0",
+        "version": 0
+      },
+      {
+        "comment": null,
+        "comment_url": null,
+        "discard": false,
+        "domain": ".vk.com",
+        "domain_initial_dot": true,
+        "domain_specified": true,
+        "expires": null,
+        "name": "remixsid",
+        "path": "/",
+        "path_specified": true,
+        "port": null,
+        "port_specified": false,
+        "rest": {
+          "HttpOnly": null
+        },
+        "rfc2109": false,
+        "secure": true,
+        "value": "1_ICbn-sIBIN4TmKPzBecaSrjU4zF76ddFpHa6vWcidwtQyb9WHwRHGPtv7qWXBFd_lROSTAn6ZZ-tU9adYuBmnA",
+        "version": 0
+      },
+      {
+        "comment": null,
+        "comment_url": null,
+        "discard": false,
+        "domain": ".vk.com",
+        "domain_initial_dot": true,
+        "domain_specified": true,
+        "expires": null,
+        "name": "remixstid",
+        "path": "/",
+        "path_specified": true,
+        "port": null,
+        "port_specified": false,
+        "rest": {},
+        "rfc2109": false,
+        "secure": true,
+        "value": "134792337_sdUrAPdwYRRhNHdup13u9Dar1LTbmpHnHX3exVdEOBc",
+        "version": 0
+      },
+      {
+        "comment": null,
+        "comment_url": null,
+        "discard": false,
+        "domain": ".vk.com",
+        "domain_initial_dot": true,
+        "domain_specified": true,
+        "expires": null,
+        "name": "remixstlid",
+        "path": "/",
+        "path_specified": true,
+        "port": null,
+        "port_specified": false,
+        "rest": {},
+        "rfc2109": false,
+        "secure": true,
+        "value": "9114257949447817796_sYhw5x2p2QmehHqrtNuwNoJTEtDlkxWPz83dDnYVZiL",
+        "version": 0
+      },
+      {
+        "comment": null,
+        "comment_url": null,
+        "discard": false,
+        "domain": ".vk.com",
+        "domain_initial_dot": true,
+        "domain_specified": true,
+        "expires": null,
+        "name": "remixua",
+        "path": "/",
+        "path_specified": true,
+        "port": null,
+        "port_specified": false,
+        "rest": {},
+        "rfc2109": false,
+        "secure": true,
+        "value": "41%7C-1%7C311%7C3683197456",
+        "version": 0
+      },
+      {
+        "comment": null,
+        "comment_url": null,
+        "discard": false,
+        "domain": "login.vk.com",
+        "domain_initial_dot": false,
+        "domain_specified": false,
+        "expires": null,
+        "name": "remixluas2",
+        "path": "/",
+        "path_specified": true,
+        "port": null,
+        "port_specified": false,
+        "rest": {
+          "HttpOnly": null
+        },
+        "rfc2109": false,
+        "secure": true,
+        "value": "ZDQxODQ3ZmQ3ZTExMzg5ZWExY2U1NGJh",
+        "version": 0
+      },
+      {
+        "comment": null,
+        "comment_url": null,
+        "discard": false,
+        "domain": "vk.com",
+        "domain_initial_dot": false,
+        "domain_specified": false,
+        "expires": null,
+        "name": "remixnsid",
+        "path": "/",
+        "path_specified": true,
+        "port": null,
+        "port_specified": false,
+        "rest": {
+          "HttpOnly": null
+        },
+        "rfc2109": false,
+        "secure": true,
+        "value": "vk1.a.8i8VuRZoB4wfpyqFfu_4JwJ7vj7IsXaCXkVHNNJzQjZtwMk4I0r5JH1RaSeARxGLtNcHGKqXBeQH5tGsIVN_p4unzu3KUqIaVXlbil-NVILA7KKlo8zog2qHMrr5GGCpco1lj2QTBuGF8vDmwsrLg7DeVmHUCMN9ouhoLInBApUOczPNOV42m1W9_fSNjzXf",
+        "version": 0
+      }
+    ],
+    "token": {
+      "app6222115": {
+        "scope_140492255": {
+          "access_token": "vk1.a.I2kye4K1-5D1qKXhC5-K57MnLSGulclJrAAxLNTswFVahdpJ9m4vg1k2DYiqA2uSfsPEHaXxYFk-LAym24D1HsRqxhWcl7BVv5gYwus4uADtKWrn7CIhEDsOlKf-9gBrbdFDWHcFCrQkaekAkgSfViGUiR2gASG7VtcmI-_sTqNU5WKXNDrD2C1a-qaMHPHvqqy2r3cUHy7-kOEVLHhdhg",
+          "expires_in": "0",
+          "user_id": "783325089"
+        }
+      }
+    }
+  }
+}
